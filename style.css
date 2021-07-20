@@ -53,7 +53,7 @@ body {
 }
 
 .landing-3 {
-	background: url('landing3.jpg');
+	background: url('landing3.jpeg');
 	background-attachment: fixed;
 	width: 100%;
 	height: calc(75vh - 56px);
